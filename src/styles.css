@@ -1,0 +1,18 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.output {
+  text-align: center;
+  font-size: 1.112rem;
+  font-weight: 550;
+  padding: 0.5rem 0rem 1rem 1rem;
+  margin: 1rem;
+}
+input {
+  cursor: pointer;
+  border-width: 2px;
+}
+input::placeholder {
+  text-align: center;
+}
