@@ -19,7 +19,7 @@ export default function App() {
     var emojiMeaning = emojiDictionary[userInput]; //this method(object[key]) is used to fetch the value of a key from object when the key:value pair is not known beforehand
 
     if (emojiMeaning === undefined) {
-      emojiMeaning = "Oops! failed to fetch meaning ⚠️";
+      emojiMeaning = "Oops! emoji not in database ⚠️";
     }
     setMeaning(emojiMeaning);
     // console.log(emojiMeaning);
