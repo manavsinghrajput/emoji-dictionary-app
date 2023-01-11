@@ -5,8 +5,7 @@
 .output {
   text-align: center;
   font-size: 1.112rem;
-  font-weight: 550;
-  padding: 0.5rem 0rem 1rem 1rem;
+  padding: 1rem 1rem 0rem 1rem;
   margin: 1rem;
 }
 input {
